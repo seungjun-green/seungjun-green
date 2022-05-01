@@ -7,7 +7,7 @@ iOS & Python Developer
 * 🌍  I'm based in South Korea
 * ✉️  You can contact me at [lsj3285007@gmail.com](mailto:lsj3285007@gmail.com)
 * 🧠  I'm learning Solidity
-* 🤝  I'm open to collaborating on iOS, Python
+* 🤝  I'm open to collaborating on iOS, Python projects
 
 ### Skills
 
