@@ -5,8 +5,8 @@ iOS & Python Developer
 ----------------------
 
 * ✉️  You can contact me at [lsj3285007@gmail.com](mailto:lsj3285007@gmail.com)
-* 🧠  I'm learning Solidity
-* 🤝  I'm open to collaborating on iOS, Python projects
+* 🧠  I'm learning Machine Learning
+* 🤝  I'm open to collaborating on iOS, Python and ML projects
 
 ### Skills
 
