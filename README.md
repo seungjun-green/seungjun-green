@@ -1,7 +1,7 @@
 Hi 👋 My name is Seungjun Lee
 =============================
 
-iOS & Python Developer
+ML Engineer
 ----------------------
 
 * ✉️  You can contact me at [lsj3285007@gmail.com](mailto:lsj3285007@gmail.com)
